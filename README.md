@@ -15,3 +15,4 @@
 - chapter 13 예외처리
 - chapter 14 스트림(IO)
 - chapter 15 쓰레드
+- chapter 16 제네릭
