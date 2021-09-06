@@ -7,3 +7,4 @@
 - chapter 05 메서드(함수)
 - chapter 06 배열
 - chapter 07 상속과 다형성
+- chapter 08 상속과 다형성(실습)
